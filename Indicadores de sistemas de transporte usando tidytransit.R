@@ -172,7 +172,6 @@ gtfs_2023$trips %>%
   summarise(count = n()) %>% 
   head(n = 10L) %>%
   knitr::kable()
-class(gtfs_2019$frequencies$start_time)
 
 ##  Intervalos
 ###2019
