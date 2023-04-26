@@ -1,2 +1,2 @@
-# transporte-en-Cordoba
-Repo informal de "cositas" de transporte y movilidad en Córdoba
+# Transporte en Córdoba
+Repositorio informal sobre transporte y movilidad en Córdoba - Argentina.
