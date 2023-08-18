@@ -1,0 +1,11 @@
+﻿variable,descripción
+id,"Identificador"
+fecha,"Fecha de vigencia de la tarifa."
+mes,"Mes correspondiente a la tarifa y salario mínimo."
+ano,"Año correspondiente a la tarifa y salario mínimo."
+salario_minimo,"Salario mínimo, vital y móvil fijado por el Consejo Nacional del Empleo, la Productividad y el Salario Mínimo, Vital y Móvil (https://www.argentina.gob.ar/trabajo/consejodelsalario)."
+tarifa,"Valor de la tarifa."
+moneda,"Tipo de moneda."
+tipo_tarifa,"Diaria, nocturna, anular, barrial."
+canasta_viajes,"Valor de 45 viajes."
+asequibilidad,"Proporción de una canasta de 45 viajes mensuales (aproximadamente 2 viajes por día hábil) en el salario mínimo."
