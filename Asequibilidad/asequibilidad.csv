@@ -6,4 +6,4 @@ id,fecha,mes,ano,salario_minimo,tarifa,moneda,tipo_tarifa,canasta_viajes,asequib
 5,15/9/2023,septiembre,2023,118000,185,$,normal,8325,0.071,0.929,637
 6,25/11/2023,noviembre,2023,146000,240,$,normal,10800,0.074,0.926,608
 7,27/1/2024,enero,2024,156000,340,$,normal,15300,0.098,0.902,458
-8,17/2/2024,febrero,2024,156000,700,$,normal,31500,0.202,0.798,222
+8,17/2/2024,febrero,2024,180000,700,$,normal,31500,0.175,0.825,257
